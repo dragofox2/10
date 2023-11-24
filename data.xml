@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2023-11-08 09:22">
+	<shop>
+		<name>НЭНДО</name>
+		<company>Мебельная фабрика НЭНДО</company>
+		<url>https://nendo.online</url>
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		<categories>
+			<category id="125">Мягкая мебель</category>
+			<category id="137" parentId="125">Диваны</category>
+			<category id="162">Матрасы</category>
+			<category id="167" parentId="162">Матрасы анатомические</category>
+			<category id="168" parentId="162">Детские матрасы</category>
+		</categories>
+		<shipment-options>
+			<option order-before="18" days="23"/>
+		</shipment-options>
+		<offers>
+			<offer id="5678" available="true">
+				<url>https://nendo.online/catalog/divan-rio/?oid=5678</url>
+				<name>Диван НЭНДО RIO Teddy 628 160x80x92</name>
+				<price>48900</price>
+				<categoryId>137</categoryId>
+				<picture>https://nendo.online/upload/iblock/79c/ftr2kh8jqubsswq3xvkcaesek4ey443y.jpg</picture>
+				<vat>NO_VAT</vat>
+				<shipment-options>
+					<option order-before="18" days="23"/>
+				</shipment-options>
+				<vendor>НЭНДО</vendor>
+				<model>RIO</model>
+				<outlets>
+					<outlet id="1" instock="10"/>
+				</outlets>
+			</offer>
+			<offer id="157465" available="true">
+    <url>https://technopark.ru/smartfon-apple-iphone-15-pro-512-gb-dual-sim-titanovyy-chernyy/</url>
+    <price>209990</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>961</categoryId>
+    <picture>https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/696818/1_696818.jpeg</picture>
+    <picture>https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/696818/2_696818.jpg</picture>
+    <picture>https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/696818/3_696818.jpeg</picture>
+    <picture>https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/696818/4_696818.jpeg</picture>
+    <picture>https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/696818/5_696818.jpg</picture>
+    <name>Apple iPhone 15 Pro 512 ГБ Dual SIM титановый чёрный</name>
+    <param name="Высота"><![CDATA[14.66 см]]></param>
+    <param name="Ширина"><![CDATA[7.06 см]]></param>
+    <param name="Толщина"><![CDATA[0.82 см]]></param>
+    <param name="Вес"><![CDATA[187 г]]></param>
+    <param name="Операционная система"><![CDATA[iOS]]></param>
+    <param name="Версия операционной системы"><![CDATA[17]]></param>
+    <param name="Тип SIM-карты"><![CDATA[2 nano SIM]]></param>
+    <param name="Поддержка 4G (LTE)"><![CDATA[да]]></param>
+    <param name="Поддержка NFC"><![CDATA[есть]]></param>
+    <param name="Количество SIM-карт"><![CDATA[2]]></param>
+    <param name="Модуль сотовой связи"><![CDATA[5G, 4G (LTE), 3G, 2G]]></param>
+    <param name="Поддержка 5G"><![CDATA[Y]]></param>
+    <param name="Экран"><![CDATA[6.1"]]></param>
+    <param name="Разрешение экрана"><![CDATA[2556х1179]]></param>
+    <param name="Тип дисплея"><![CDATA[Super Retina XDR]]></param>
+    <param name="Яркость"><![CDATA[2000 кд/м2]]></param>
+    <param name="Контрастность"><![CDATA[2000000:1]]></param>
+    <param name="Плотность пикселей"><![CDATA[460 PPI]]></param>
+    <param name="Тип стекла"><![CDATA[керамическое]]></param>
+    <param name="Функция Multi-Touch"><![CDATA[Y]]></param>
+    <param name="Олеофобное покрытие"><![CDATA[Y]]></param>
+    <param name="Диагональ экрана"><![CDATA[6.0"-6.4"]]></param>
+    <param name="Частота обновления экрана"><![CDATA[120 Гц]]></param>
+    <param name="Количество ядер процессора"><![CDATA[6]]></param>
+    <param name="Производитель процессора"><![CDATA[Apple]]></param>
+    <param name="Модель процессора"><![CDATA[A17 Pro]]></param>
+    <param name="Встроенная память"><![CDATA[512 Гб]]></param>
+    <param name="Оперативная память"><![CDATA[есть]]></param>
+    <param name="Диафрагма"><![CDATA[f/1.78]]></param>
+    <param name="Разрешение основной камеры"><![CDATA[12/12 Мп]]></param>
+    <param name="Тройная камера"><![CDATA[Y]]></param>
+    <param name="Широкоугольный объектив"><![CDATA[Y]]></param>
+    <param name="Диафрагма телеобъектива"><![CDATA[f/1.78, f/2.8]]></param>
+    <param name="Диафрагма широкоугольного объектива"><![CDATA[f/2.2]]></param>
+    <param name="Кратность оптического увеличения"><![CDATA[6x]]></param>
+    <param name="Кратность цифрового увеличения"><![CDATA[15x]]></param>
+    <param name="Автофокус"><![CDATA[Y]]></param>
+    <param name="Тип автофокуса"><![CDATA[следящий]]></param>
+    <param name="Вспышка"><![CDATA[True Tone]]></param>
+    <param name="Защита объектива сапфировым стеклом"><![CDATA[Y]]></param>
+    <param name="Режимы съемки"><![CDATA[портрет нового поколения с контролем фокусировки и глубины, портретное освещение с шестью эффектами (естественный, студийный, контурный, сценический, сценический монохром, высокотональный монофонический), панорамная съёмка, серийная съëмка, ночной режим, Smart HDR 5, фотографические стили, макрофотография, таймлапс со стабилизацией изображения, таймлапс в ночном режиме, функция QuickTake, режим «Киноэффект», режим Action]]></param>
+    <param name="Количество основных камер"><![CDATA[3]]></param>
+    <param name="Стабилизация изображения"><![CDATA[оптический]]></param>
+    <param name="Разрешение фронтальной камеры"><![CDATA[12 Мп]]></param>
+    <param name="Стабилизатор изображения"><![CDATA[автоматический]]></param>
+    <param name="Диафрагма"><![CDATA[f/1.9]]></param>
+    <param name="Автофокус"><![CDATA[да]]></param>
+    <param name="Вспышка"><![CDATA[Retina Flash]]></param>
+    <param name="Распознавание лиц и фигур"><![CDATA[Y]]></param>
+    <param name="Режимы съемки фронтальной камеры"><![CDATA[портрет нового поколения с контролем фокусировки и глубины, портретное освещение с шестью эффектами (естественный, студийный, контурный, сценический, сценический монохром, высокотональный монофонический), серийная съëмка, ночной режим, Smart HDR 5, фотографические стили, таймлапс со стабилизацией изображения, таймлапс в ночном режиме, функция QuickTake, режим «Киноэффект», Animoji и Memoji]]></param>
+    <param name="Количество фронтальных камер"><![CDATA[1]]></param>
+    <param name="Тип разъема"><![CDATA[USB Type-C]]></param>
+    <param name="Стандарты Wi-Fi"><![CDATA[IEEE 802.11 ax]]></param>
+    <param name="Технология Wi-Fi"><![CDATA[MIMO]]></param>
+    <param name="Версия Bluetooth"><![CDATA[5.3]]></param>
+    <param name="Спутниковая навигация"><![CDATA[Navic]]></param>
+    <param name="Технология iBeacon"><![CDATA[Y]]></param>
+    <param name="Беспроводная зарядка"><![CDATA[да]]></param>
+    <param name="Тип аккумулятора"><![CDATA[Li-Ion]]></param>
+    <param name="Время работы в режиме воспроизведения видео"><![CDATA[23 ч]]></param>
+    <param name="Время работы в режиме воспроизведения аудио"><![CDATA[75 ч]]></param>
+    <param name="Зарядка от USB"><![CDATA[Y]]></param>
+    <param name="Быстрая зарядка"><![CDATA[Y]]></param>
+    <param name="Флагманы"><![CDATA[Apple iPhone 15 Pro]]></param>
+    <param name="Бесконтактные платежи"><![CDATA[Apple Pay]]></param>
+    <param name="Распознавание лица"><![CDATA[Y]]></param>
+    <param name="Датчики"><![CDATA[инфракрасный датчик]]></param>
+    <param name="Дополнительная информация"><![CDATA[технология ProMotion с адаптивной частотой обновления до 120 Гц, динамический остров, всегда включенный дисплей, технология True Tone, широкий цветовой охват (P3), тактильный отклик при нажатии, поддержка одновременного отображения нескольких языков и наборов символов, технология Deep Fusion, распознавание лица с помощью камеры TrueDepth, оптическая стабилизация изображения со сдвигом сенсора второго поколения, усовершенствованная коррекция эффекта красных глаз, кинематографическая стабилизация видео (4K, 1080p и 720p), автофокусировка с помощью Focus Pixels, экстренный сигнал SOS через спутник, распознавание аварий, портретный режим в видео FaceTime, пространственное аудио, SharePlay, беспроводная зарядка с MagSafe, Action Button]]></param>
+    <param name="Год выхода модели"><![CDATA[2023]]></param>
+    <param name="Серия"><![CDATA[iPhone 15 Pro]]></param>
+    <param name="Защита от влаги и пыли"><![CDATA[Y]]></param>
+    <param name="Материал корпуса"><![CDATA[титан, алюминий, стекло]]></param>
+    <param name="Класс пылевлагозащищенности"><![CDATA[IP68]]></param>
+    <param name="Цвет"><![CDATA[чёрный]]></param>
+    <param name="Водонепроницаемость"><![CDATA[Y]]></param>
+    <param name="Класс водонепроницаемости"><![CDATA[IPx8]]></param>
+    <param name="Качество видеозаписи"><![CDATA[4K]]></param>
+    <param name="Съемка замедленного видео"><![CDATA[Y]]></param>
+    <param name="Частота кадров в секунду"><![CDATA[24/25/30/60/120/240]]></param>
+    <param name="Ночной режим видеосъемки"><![CDATA[Y]]></param>
+    <param name="Цифровое увеличение"><![CDATA[9х]]></param>
+    <param name="Количество динамиков"><![CDATA[2]]></param>
+    <param name="Кабель USB-C"><![CDATA[в комплекте]]></param>
+    <param name="Инструкция"><![CDATA[Y]]></param>
+    <param weight="0.22"/>
+    <param length="0.17"/>
+    <param width="0.09"/>
+    <param height="0.03"/>
+    <description><![CDATA[Операционная система<br />- Операционная система: iOS <br />- Версия операционной системы: 17 <br /> <br />Основные характеристики<br />- Количество SIM-карт: 2 <br />- Тип SIM-карты: 2 nano SIM <br />- Модуль сотовой связи: 5G, 4G (LTE), 3G, 2G <br />- Поддержка 5G: да <br />- Поддержка NFC: есть <br /> <br />Дисплей<br />- Экран: 6.1" <br />- Разрешение экрана: 2556х1179 <br />- Яркость: 2000 кд/м2 <br />- Контрастность: 2000000:1 <br />- Тип дисплея: Super Retina XDR <br />- Плотность пикселей: 460 PPI <br />- Тип стекла: керамическое <br />- Функция Multi-Touch: да <br />- Олеофобное покрытие: да <br />- Частота обновления экрана: 120 Гц <br /> <br />Процессор<br />- Производитель процессора: Apple <br />- Модель процессора: A17 Pro <br />- Количество ядер процессора: 6 <br /> <br />Память<br />- Встроенная память: 512 Гб <br />- Оперативная память: есть <br /> <br />Основная камера<br />- Количество основных камер: 3 <br />- Разрешение основной камеры: 48 Мп, 12/12 Мп <br />- Тройная камера: да <br />- Широкоугольный объектив: да <br />- Стабилизация изображения: оптический <br />- Диафрагма: f/1.78 <br />- Диафрагма телеобъектива: f/1.78, f/2.8 <br />- Диафрагма широкоугольного объектива: f/2.2 <br />- Кратность оптического увеличения: 6x <br />- Кратность цифрового увеличения: 15x <br />- Автофокус: да <br />- Тип автофокуса: следящий <br />- Вспышка: True Tone <br />- Защита объектива сапфировым стеклом: да <br />- Режимы съемки: портрет нового поколения с контролем фокусировки и глубины, портретное освещение с шестью эффектами (естественный, студийный, контурный, сценический, сценический монохром, высокотональный монофонический), панорамная съёмка, серийная съëмка, ночной режим, Smart HDR 5, фотографические стили, макрофотография, таймлапс со стабилизацией изображения, таймлапс в ночном режиме, функция QuickTake, режим «Киноэффект», режим Action <br /> <br />Фронтальная камера<br />- Количество фронтальных камер: 1 <br />- Разрешение фронтальной камеры: 12 Мп <br />- Стабилизатор изображения: автоматический <br />- Диафрагма: f/1.9 <br />- Автофокус: да <br />- Вспышка: Retina Flash <br />- Распознавание лиц и фигур: да <br />- Режимы съемки фронтальной камеры: портрет нового поколения с контролем фокусировки и глубины, портретное освещение с шестью эффектами (естественный, студийный, контурный, сценический, сценический монохром, высокотональный монофонический), серийная съëмка, ночной режим, Smart HDR 5, фотографические стили, таймлапс со стабилизацией изображения, таймлапс в ночном режиме, функция QuickTake, режим «Киноэффект», Animoji и Memoji <br /> <br />Видеосъемка<br />- Качество видеозаписи: 1080р, 720p, 4K <br />- Съемка замедленного видео: да <br />- Частота кадров в секунду: 24/25/30/60/120/240 <br />- Ночной режим видеосъемки: да <br />- Цифровое увеличение: 9х <br /> <br />Аудиосистема<br />- Количество динамиков: 2 <br /> <br />Интерфейсы<br />- Тип разъема: USB Type-C <br /> <br />Беспроводная связь<br />- Стандарты Wi-Fi: IEEE 802.11 ax <br />- Технология Wi-Fi: MIMO <br />- Версия Bluetooth: 5.3 <br />- Спутниковая навигация: GPS, ГЛОНАСС, BeiDou, Galileo, QZSS, Navic <br />- Технология iBeacon: да <br /> <br />Питание<br />- Тип аккумулятора: Li-Ion <br />- Время работы в режиме воспроизведения видео: 23 ч <br />- Время работы в режиме воспроизведения аудио: 75 ч <br />- Беспроводная зарядка: да <br />- Зарядка от USB: да <br />- Быстрая зарядка: да <br /> <br />Дополнительные характеристики<br />- Бесконтактные платежи: Apple Pay <br />- Распознавание лица: да <br />- Датчики: G-сенсор (акселерометр), гироскоп, датчик освещенности, датчик приближения, цифровой компас, барометр, инфракрасный датчик <br />- Дополнительная информация: технология ProMotion с адаптивной частотой обновления до 120 Гц, динамический остров, всегда включенный дисплей, технология True Tone, широкий цветовой охват (P3), тактильный отклик при нажатии, поддержка одновременного отображения нескольких языков и наборов символов, технология Deep Fusion, распознавание лица с помощью камеры TrueDepth, оптическая стабилизация изображения со сдвигом сенсора второго поколения, усовершенствованная коррекция эффекта красных глаз, кинематографическая стабилизация видео (4K, 1080p и 720p), автофокусировка с помощью Focus Pixels, экстренный сигнал SOS через спутник, распознавание аварий, портретный режим в видео FaceTime, пространственное аудио, SharePlay, беспроводная зарядка с MagSafe, Action Button <br />- Год выхода модели: 2023 <br /> <br />Корпус<br />- Материал корпуса: титан, алюминий, стекло <br />- Цвет: чёрный <br />- Защита от влаги и пыли: да <br />- Класс пылевлагозащищенности: IP68 <br />- Водонепроницаемость: да <br />- Класс водонепроницаемости: IPx8 <br /> <br />Комплектация<br />- Кабель USB-C: в комплекте <br />- Инструкция: да <br /> <br />Размеры и вес<br />- Высота: 14.66 см <br />- Ширина: 7.06 см <br />- Толщина: 0.82 см <br />- Вес: 187 г <br /> <br />]]></description>
+    <barcode>0195949017469</barcode>
+    <model>Смартфон Apple iPhone 15 Pro 512Gb Black Titanium Dual SIM | MTQD3ZA/A</model>
+    <vendor>Apple</vendor>
+    <outlets>
+     <outlet id="0" instock="8"/>
+    </outlets>
+   </offer>
+		</offers>
+	</shop>
+</yml_catalog>
