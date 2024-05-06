@@ -49,6 +49,37 @@
 <param name="Стиль современный">есть</param>
 <param name="Тип подлокотников мягкие">есть</param>
 </offer>
+      <offer id="1171" available="true">
+<url>https://win-option.ru/opt-recliner-chairs/relax-rio-beige.html</url>
+<name>Мягкое кресло-реклайнер небольших размеров Relax Rio Beige</name>
+<price>67900</price>
+<oldprice>91660</oldprice>
+<categoryId>57293</categoryId>
+<picture>https://win-option.ru/picms_1171_0.jpg</picture>
+<picture>https://win-option.ru/picms_1171_1.jpg</picture>
+<picture>https://win-option.ru/picms_1171_2.jpg</picture>
+<picture>https://win-option.ru/picms_1171_3.jpg</picture>
+<picture>https://win-option.ru/picms_1171_4.jpg</picture>
+<picture>https://win-option.ru/picms_1171_5.jpg</picture>
+<picture>https://win-option.ru/picms_1171_6.jpg</picture>
+<outlets>
+<outlet id="1" instock="9"/>
+</outlets>
+<shipment-options>
+<option days="2" order-before="15"/>
+</shipment-options>
+<vendor>Relax</vendor>
+<model>Rio Beige</model>
+<vendorCode>7651-02-029</vendorCode>
+<description>
+<![CDATA[ <p>Цвет обивки: бежевый.</p><p>Стильное мягкое кресло с обивкой из сверхпрочного искусственного нубука. Практичный и очень красивый предмет мебели для гостиной. Каркас сварен из стальных труб, основание выполнено из натурального дерева.</p><p>Мягкие кресла серии Relax Rio имеют целый ряд серьёзных и неоспоримых преимуществ по сравнению с традиционными классическими креслами для дома, так-как могут <b>вращаться на 360 градусов и откидываться на разные углы назад</b> (реклайнер). Они оборудованы высокой спинкой и <b>встроенной подножкой</b> (подставкой для ног) выдвигаемой из под сиденья. Функциональный подголовник <b>регулируется по углу наклона</b>.</p><p>Шелковистая и крайне приятная на ощупь обивка кресла Relax Rio выполнена из искусственного нубука, обладает высокой прочностью на разрыв и отличной устойчивостью к истиранию. Гораздо более устойчива натуральной кожи к когтям проживающих в доме хвостатых питомцев.</p><p>Габаритные размеры, (см) • Высота кресла Релакс Рио (от пола) : 103 • Высота сидения (верхняя точка от пола) : 45 • Высота спинки (от сидения) : 72 • Ширина (по внешним краям) : 77 • Ширина сидения (по подлокотникам) : 47 • Макс. длина (в разложенном виде) : 163</p> По типу привода: механические. Материал обивки: нубук ]]>
+</description>
+<param name="Тип кресло-реклайнер">есть</param>
+<param name="Тип классическое кресло">есть</param>
+<param name="Стиль классический">есть</param>
+<param name="Стиль современный">есть</param>
+<param name="Тип подлокотников мягкие">есть</param>
+</offer>
     </offers>
   </shop>
 </yml_catalog>
